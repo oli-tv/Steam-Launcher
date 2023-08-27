@@ -1,0 +1,8 @@
+[Rainmeter]
+update = 1000
+@include=#@#settings.inc
+[Icon]
+Meter = Image
+W=#Size#
+ImageName = #@#Images\{0}.png
+LeftMouseUpAction=["steam://rungameid/{0}"]
