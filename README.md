@@ -1,3 +1,5 @@
+
+![Logo](https://raw.githubusercontent.com/oli-tv/Steam-Launcher/main/icon.ico)
 # Steam-Launcher
 A simple rainmeter skin written in **python** and **rainmeter** to level-up my programming skills.
 ## Installation
@@ -10,13 +12,15 @@ pip install CTkMessagebox
 ```
 ## Usage/Examples
 > [!NOTE]
-> (You can get ID from [SteamDB](https://SteamDB.info/))  
+> You can get ID from [SteamDB](https://SteamDB.info/)  
 1. Add icon to @resources\Images\ *ID here*.png
 2. Launch ***Add Game.py***
 3. Type name of game and ID
 4. Click Add
 5. Refresh rainmeter
 6. add skin to desktop
+## Screenshots
+![App Screenshot](https://github.com/oli-tv/Steam-Launcher/blob/main/screenshot.png?raw=true)
 ## Settings
 settings file: @Resources\Settings.inc
 ```
