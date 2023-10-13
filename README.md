@@ -7,8 +7,7 @@ A simple rainmeter skin written in **python** and **rainmeter** to level-up my p
 2. launch *.rmskin* file
 3. Install customtkinter and CTkMessagebox
 ```
-pip install customtkinter 
-pip install CTkMessagebox
+pip install customtkinter CTkMessagebox
 ```
 ## Usage/Examples
 > [!NOTE]
